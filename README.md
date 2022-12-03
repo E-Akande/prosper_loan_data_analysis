@@ -13,10 +13,10 @@ In Part II, Explanatory data visualization, I produced a short presentation that
 
 This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It came highly recommended that I use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries were used in this project:
 
-NumPy
-pandas
-Matplotlib
-Seaborn
+> NumPy
+> pandas
+> Matplotlib
+> Seaborn
 
 ## Why this project?
 
