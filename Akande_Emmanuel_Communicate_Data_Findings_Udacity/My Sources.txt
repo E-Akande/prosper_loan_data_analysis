@@ -1,0 +1,13 @@
+https://drawingfromdata.com/pandas/seaborn/matplotlib/visualization/setting-figure-size-matplotlib-seaborn.html
+
+https://www.statology.org/seaborn-font-size/#:~:text=Note%20that%20the%20default%20value,all%20elements%20in%20the%20plot.
+
+https://stackoverflow.com/questions/70673809/plotting-seaborn-histplot-bar-label-with-condition
+
+
+https://stackoverflow.com/questions/55586912/seaborn-catplot-set-values-over-the-bars
+
+
+https://goodboychan.github.io/python/datacamp/visualization/2020/06/27/01-Customizing-Seaborn-Plots.html
+
+
